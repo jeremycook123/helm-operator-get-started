@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: cloudacademydevops/podinfo:dev-cuyoisnm
+    image: cloudacademydevops/podinfo:dev-on3cq4nt
     replicaCount: 1
     hpa:
       enabled: false
